@@ -7,7 +7,7 @@ This is a basic chat app built in python using flask and the SocketIO library.
 Use Git to clone the reponsity to your machine.
 
 ```
-git clone 
+git clone https://github.com/TMoiseyenko06/basic-chat-application.git
 ```
 ## Description
 
